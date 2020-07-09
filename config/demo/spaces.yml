@@ -1,0 +1,6 @@
+org: demo
+spaces:
+- demo
+- sock
+- healthwatch2
+enable-delete-spaces: true
