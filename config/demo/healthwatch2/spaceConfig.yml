@@ -4,7 +4,8 @@ space-developer:
   ldap_users: []
   users:
   - admin
-  saml_users: []
+  saml_users:
+  - tmaki@vmware.com
   ldap_groups: []
 space-manager:
   ldap_users: []

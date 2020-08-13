@@ -8,7 +8,8 @@ org-manager:
   ldap_users: []
   users:
   - admin
-  saml_users: []
+  saml_users:
+  - tmaki@vmware.com
   ldap_groups: []
 org-auditor:
   ldap_users: []
