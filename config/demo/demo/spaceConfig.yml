@@ -6,6 +6,13 @@ space-developer:
   - admin
   saml_users:
   - tmaki@vmware.com
+  - kkusama@vmware.com
+  - kojiri@vmware.com
+  - machih@vmware.com
+  - shashitani@vmware.com
+  - syatsuzuka@vmware.com
+  - tadashii@vmware.com
+  - yujita@vmware.com
   ldap_groups: []
 space-manager:
   ldap_users: []
