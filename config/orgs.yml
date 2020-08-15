@@ -5,4 +5,5 @@ protected_orgs:
 - system
 - elephantsql
 - shared-mysql
-- ignition*
+- ignition
+- playground-*
