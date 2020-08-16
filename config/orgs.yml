@@ -5,6 +5,7 @@ protected_orgs:
 - system
 - elephantsql
 - shared-mysql
+- cloudamqp
 - cloudkarafka
 - ignition
 - playground-*
