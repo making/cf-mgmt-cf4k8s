@@ -11,6 +11,7 @@ space-manager:
   saml_users:
   - junya.suzuki03@g.softbank.co.jp
   - tmaki@vmware.com
+  - suzuki.skywalker@gmail.com
   ldap_groups: []
 space-auditor:
   ldap_users: []
