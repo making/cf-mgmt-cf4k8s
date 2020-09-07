@@ -10,7 +10,7 @@ userObjectClass: ""
 groupSearchBase: ""
 groupAttribute: ""
 groupObjectClass: ""
-origin: uaa
+origin: azure-ad
 insecure_skip_verify: ""
 ca_cert: ""
 useIDForSAMLUser: false
