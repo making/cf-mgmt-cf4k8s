@@ -1,0 +1,4 @@
+org: trial
+spaces:
+- develop
+enable-delete-spaces: true
