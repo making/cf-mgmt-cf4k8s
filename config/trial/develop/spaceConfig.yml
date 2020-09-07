@@ -3,15 +3,15 @@ space: develop
 space-developer:
   ldap_users: []
   users: []
-  saml_users: []
+  saml_users:
+  - junya.suzuki03@g.softbank.co.jp
+  - tmaki@vmware.com
+  - suzuki.skywalker@gmail.com    
   ldap_groups: []
 space-manager:
   ldap_users: []
   users: []
-  saml_users:
-  - junya.suzuki03@g.softbank.co.jp
-  - tmaki@vmware.com
-  - suzuki.skywalker@gmail.com
+  saml_users: []
   ldap_groups: []
 space-auditor:
   ldap_users: []
