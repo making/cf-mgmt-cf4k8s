@@ -8,6 +8,7 @@ space-developer:
   - tmaki@vmware.com
   - suzuki.skywalker@gmail.com
   - keitax913@yahoo.co.jp
+  - makingx@gmail.com
   ldap_groups: []
 space-manager:
   ldap_users: []

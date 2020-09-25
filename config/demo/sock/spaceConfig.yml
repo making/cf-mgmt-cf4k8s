@@ -6,6 +6,7 @@ space-developer:
   - admin
   saml_users:
   - tmaki@vmware.com
+  - makingx@gmail.com
   ldap_groups: []
 space-manager:
   ldap_users: []
