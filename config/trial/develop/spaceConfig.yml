@@ -6,7 +6,8 @@ space-developer:
   saml_users:
   - junya.suzuki03@g.softbank.co.jp
   - tmaki@vmware.com
-  - suzuki.skywalker@gmail.com    
+  - suzuki.skywalker@gmail.com
+  - keitax913@yahoo.co.jp
   ldap_groups: []
 space-manager:
   ldap_users: []
