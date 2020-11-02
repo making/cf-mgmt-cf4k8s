@@ -1,0 +1,4 @@
+org: hol
+spaces:
+- tmaki
+enable-delete-spaces: true

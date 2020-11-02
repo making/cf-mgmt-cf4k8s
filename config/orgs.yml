@@ -1,6 +1,7 @@
 orgs:
 - demo
 - trial
+- hol
 enable-delete-orgs: true
 protected_orgs:
 - system
